@@ -1,98 +1,43 @@
-# 🚀 Frontend Mentor - Fylo data storage component
-"Fylo data storage component landing page is a responsive and accessible with semantic HTML, modular CSS and vanilla JS"
+# Fylo Data Storage Component
 
-This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n).
+This is one of my Frontend Mentor challenge projects.
 
-## 🔗 Links 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/-built-to-impress-400400-accessibility-and-progress-bar-timeout-9ho8s2LCci)
-- Live Site URL: [Fylo data storage component](https://ruthlesscalm.github.io/fm-fylo-data-storage-component/)
+## Links
 
-## 🔍 Table of contents
+This is the challenge - [Fylo Data Storage Component](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
-- [🚀 Frontend Mentor - Fylo data storage component](#-frontend-mentor---fylo-data-storage-component)
-  - [🔗 Links](#-links)
-  - [🔍 Table of contents](#-table-of-contents)
-  - [📔 Overview](#-overview)
-    - [🎯 The Challenge](#-the-challenge)
-    - [📷 Screenshots](#-screenshots)
-      - [🎬 Preview](#-preview)
-      - [📊 Accessibility Report](#-accessibility-report)
-  - [📦 Features](#-features)
-  - [📌 Tech Stacks](#-tech-stacks)
-  - [🛠️ Tools](#️-tools)
-  - [📚 Credits /  References](#-credits---references)
-  - [👤 Author](#-author)
-  - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
-    
+* Live Demo: [Fylo Data Storage Component](https://ruthlesscalm.github.io/fm-fylo-data-storage-component/)
+* Solution: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/-built-to-impress-400400-accessibility-and-progress-bar-timeout-9ho8s2LCci)
 
-## 📔 Overview
+## Preview
 
-### 🎯 The Challenge
-
-- Build landing page using HTML and CSS
-- Should be responsive
-- Ensure Strong Web Accessibility
-
-### 📷 Screenshots
-
-#### 🎬 Preview
-
-- **Desktop** 
+* **Desktop**
 
 ![](./screenshots/desktop.webp)
 
-- **Tablet** 
-
-![](./screenshots/tablet.webp)
-
-- **Mobile** 
+* **Mobile**
 
 ![](./screenshots/mobile.webp)
 
-- **Zoom - 150%**
+## Features
 
-![](./screenshots/zoom.webp)
+* Fully fluid and responsive layout (280px to 1920px)
+* Accessibility-focused (semantic HTML, focus states, screen reader friendly)
+* Progress bar animation using JavaScript
 
-#### 📊 Accessibility Report
+## Tech Stack
 
-![](./screenshots/accessibility.webp)
+* HTML
+* CSS
+* JavaScript
 
-## 📦 Features
+## Credits / References
 
-- Fully fluid and responsive layout (280px to 1920px)
-- Web-accessible (focus states , semantic Html , screen reader friendly)
-- animation on timeout using JS
+* [Piccalilli - Andy Bell](https://piccalil.li/author/andy-bell/)
+  * [Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 
-## 📌 Tech Stacks
+## License
 
-- HTML 5
-- CSS 3
-- Vanilla Js
+This project is licensed under the MIT License.
 
-## 🛠️ Tools
-
-- [Google Fonts](https://fonts.google.com/?preview.text=Nature) - Fonts (CDN and ttf files)
-- [Transfonter](https://transfonter.org/) - Conversion of font files (ttf, woff, woff2, eot, svg) and font face generator
-- [Real Favicon Generator](https://realfavicongenerator.net) - Generate mutiple format favicons and customize site.webmanifest
-- [Svg Repo](https://www.svgrepo.com/) - Customisable icons in various formats and size (svg and png)
-- [squoosh](https://squoosh.app/) - Conversion of image files (png, jpeg, avif, webp etc)
-
-## 📚 Credits /  References
-
-- [Picallili - Andy Bell](https://piccalil.li/author/andy-bell/)
-    - [Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
-
-## 👤 Author
-
-- Github - [Ruthless Calm](https://github.com/ruthlesscalm)
-- Frontend Mentor - [Ruthless Calm](https://www.frontendmentor.io/profile/ruthlesscalm)
-
-## 🤝 Contributing
-
-Pull req are welcome. For major changes, open an issue first.
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).  
-You're free to use, modify, and distribute with credit to **Pavan Gowda S R**.
+Feel free to use the code for learning, experimentation, or reference.
